@@ -63,7 +63,7 @@ names = [
     'Stoad','Tanua','Neda','Bleat','Jaran',
     'Zhivka','Cluck','Khutan','Staysa','Mongo',
     'Martu','Vuksha','Burble','Tuban','Dreko',
-    'Snuffle','Denua','Vojan','Herk', 'Anders'.
+    'Snuffle','Denua','Vojan','Herk', 'Anders',
     'Kepesk','Kethend','Korth','Kosj','Valignat',
     'Vargach','Vutha','Vyth','Achuak','Aryte',
     'Baeshra','Darastrix','Garurt','Kothar','Litrix',
