@@ -1,0 +1,22 @@
+actions = [
+    'Scheme','Falter','Advance','Clash','Initiate',
+    'Swear','Guard','Control','Risk','Inspect',
+    'Evade','Deflect','Attack','Preserve','Remove',
+    'Withdraw','Investigate','Focus','Breach','Uphold',
+    'Suppress','Share','Avoid','Demand','Bolster',
+    'Mourn','Gather','Transform','Serve','Move',
+    'Resist','Impress','Oppose','Overwhelm','Acquire',
+    'Finish','Restore','Command','Find','Hide',
+    'Betray','Arrive','Change','Debate','Follow',
+    'Locate','Release','Reduce','Distract','Escort',
+    'Communicate','Search','Summon','Weaken','Hunt',
+    'Refuse','Create','Destroy','Deliver','Avenge',
+    'Reject','Fortify','Defeat','Explore','Secure',
+    'Break','Seize','Affect','Surrender','Reveal',
+    'Defend','Raid','Defy','Support','Assault',
+    'Persevere','Construct','Threaten','Begin','Endure',
+    'Leave','Coordinate','Lose','Manipulate','Await',
+    'Escalate','Eliminate','Take','Journey','Abandon',
+    'Capture','Learn','Hold','Challenge','Depart',
+    'Uncover','Protect','Charge','Aid','Strengthen'
+]

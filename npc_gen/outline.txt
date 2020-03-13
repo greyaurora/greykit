@@ -1,0 +1,5 @@
+some potential ideas:
+
+ - copy data list and remove items as you go so repeats are impossible
+ - introduce weighted tables so certain results can be more or less likely
+ - add problem solving as an npc trait
